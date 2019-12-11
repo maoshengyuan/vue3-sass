@@ -53,13 +53,11 @@ export default {
     };
   },
   methods: {
-    // eslint-disable-next-line no-unused-vars
     handleOpen(key, keyPath) {
-      //   console.log(key, keyPath);
+      console.log(key, keyPath);
     },
-    // eslint-disable-next-line no-unused-vars
     handleClose(key, keyPath) {
-      //   console.log(key, keyPath);
+      console.log(key, keyPath);
     }
   }
 };
